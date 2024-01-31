@@ -1,0 +1,6 @@
+keras==2.13.1
+pandas
+pillow==10.2.0
+tensorflow==2.13.0
+numpy
+opencv-contrib-python==4.9.0.80
