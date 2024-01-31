@@ -7,7 +7,7 @@ import numpy as np
 import cv2 as cv 
 st.title(":green[MNIST Classifier]")
 
-st.header("**Upload a picture of a number.**")
+st.header("**Upload a picture of a number from an MNIST-like format.**")
 st.sidebar.title(":blue[The model was trained using a CNN and has an accuracy of 92.2%.]")
 st.sidebar.title("")
 st.sidebar.title("MNIST is a classic dataset of handwritten images. The images are 28x28 pixels and are grayscale. The images are of handwritten digits from 0-9. The goal is to classify the image as one of the 10 digits.")
