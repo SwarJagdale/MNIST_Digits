@@ -1,2 +1,2 @@
 # MNIST_Digits
-schwarz-mnistdig.streamlit.app
+https://schwarz-mnistdig.streamlit.app
